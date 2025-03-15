@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.tabSize": 6,
+    "editor.accessibilityPageSize": 600,
+    "editor.autoClosingComments": "always"
+}
